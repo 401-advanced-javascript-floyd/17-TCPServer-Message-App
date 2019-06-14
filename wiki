@@ -1,0 +1,2 @@
+EventEmitter provides multiple properties like on and emit. on property is used to bind a function with the event and emit is used to fire an event.
+The interesting thing about it is how it's made of a listener and emiter. This is perfect for chat apps and real time data swaps.
